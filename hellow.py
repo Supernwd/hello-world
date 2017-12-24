@@ -1,7 +1,8 @@
 from tkinter import *
 
 fen1 = Tk()
- 
+
+fen1.title("L'incontournable Hello world")
 # création de widgets 'Label' et 'Entry' :
 txt1 = Label(fen1, text ='Premier champ :')
 txt2 = Label(fen1, text ='Second :')
