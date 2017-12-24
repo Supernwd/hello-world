@@ -24,6 +24,7 @@ entr1.grid(row =1, column =2)
 entr2.grid(row =2, column =2)
 entr3.grid(row =3, column =2)
 can1.grid(row =1, column =3, rowspan =3, padx =10, pady =5)
- 
+
+#éditerparlemeilleur
 # démarrage :
 fen1.mainloop()
